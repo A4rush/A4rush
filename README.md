@@ -10,14 +10,14 @@
 ###
 
 <h1 align="center">Hi! I'm Aarush Mishra👋</h1>
-<h4></h4>I’m a web developer and UI/UX designer who strives to build high quality web experiences through clean, maintainable code and thoughtful design. I’m currently working full-time as a Full-Stack Software Engineer.</h4>
+<h3>I’m a web developer and UI/UX designer who strives to build high quality web experiences through clean, maintainable code and thoughtful design. I’m currently working full-time as a Full-Stack Software Engineer.</h3>
 
 ###
 
 <h1 align="left">🛠 Tech Stack & Skills</h1>
-<h4>Frontend: Html, Javascript (ES6+), Typescript, React, Nextjs, Expressjs </h4>
-<h4>Styling & Design: Css3, Sass, Bootstrap, Tailwind Css, Css Module, Figma, Styled Components</h4>
-<h4>Backend & Tools: Node.js, Express, Firebase, Vercel, Netlify, Supabase, MongoDB, Mysql, Git, Webpack</h4>
+<h3>Frontend: Html, Javascript (ES6+), Typescript, React, Nextjs, Expressjs </h3>
+<h3>Styling & Design: Css3, Sass, Bootstrap, Tailwind Css, Css Module, Figma, Styled Components</h3>
+<h3>Backend & Tools: Node.js, Express, Firebase, Vercel, Netlify, Supabase, MongoDB, Mysql, Git, Webpack</h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
