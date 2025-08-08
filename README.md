@@ -14,10 +14,10 @@
 
 ###
 
-<h1 align="left">🛠 Tech Stack & Skills</h1>
-<h3>Frontend: Html, Javascript (ES6+), Typescript, React, Nextjs, Expressjs </h3>
-<h3>Styling & Design: Css3, Sass, Bootstrap, Tailwind Css, Css Module, Figma, Styled Components</h3>
-<h3>Backend & Tools: Node.js, Express, Firebase, Vercel, Netlify, Supabase, MongoDB, Mysql, Git, Webpack</h3>
+<h1 >🛠 Tech Stack & Skills</h1>
+<h3 >Frontend: Html, Javascript (ES6+), Typescript, React, Nextjs, Expressjs </h3>
+<h3 >Styling & Design: Css3, Sass, Bootstrap, Tailwind Css, Css Module, Figma, Styled Components</h3>
+<h3 >Backend & Tools: Node.js, Express, Firebase, Vercel, Netlify, Supabase, MongoDB, Mysql, Git, Webpack</h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -70,7 +70,7 @@
 
 ###
 
-<h1 align="left">🔥  My Stats </h1>
+<h1 align="center">🔥  My Stats </h1>
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=A4rush&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false" height="150" alt="stats graph"  />
@@ -81,7 +81,7 @@
 </div>
 
 ###
-<h1 align="left">Random Gyaan 😁</h1>
+<h1 align="center">Random Gyaan 😁</h1>
 <div align="center">
   
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
