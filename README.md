@@ -9,7 +9,7 @@
 
 ###
 
-<h1 align="center">Hi! I'm Aarush Mishra👋</h1>
+<a href="https://aarushdevx.web.app/"><h1 align="center">Hi! I'm Aarush Mishra👋</h1> </a>
 <h3>I’m a web developer and UI/UX designer who strives to build high quality web experiences through clean, maintainable code and thoughtful design. I’m currently working full-time as a Full-Stack Software Engineer.</h3>
 
 ###
