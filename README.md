@@ -81,7 +81,7 @@
 </div>
 
 ###
-<h1 align="center">Random Gyaan 😁</h1>
+<h1 align="center">Random Gyaan 🤯</h1>
 <div align="center">
   
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
